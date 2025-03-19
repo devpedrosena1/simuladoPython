@@ -1,0 +1,5 @@
+O aluno Pedro teve nota 10.0
+O aluno Matheus teve nota 8.0
+O aluno Cleyton teve nota 9.0
+O aluno Matteus teve nota 7.0
+O aluno Sulamita teve nota 6.5
