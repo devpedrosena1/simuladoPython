@@ -1,0 +1,5 @@
+Notebook|2000
+Placa de Video|3000
+Monitor|570
+Teclado|300
+Mouse|250
